@@ -55,22 +55,16 @@ a:hover {
   padding-left: .3em;
 }
 
+
 .primary-titles {
   color: #DF723E;
   display: inline-block;
   font-size: .9em;
   letter-spacing: 1px;
-  /*margin-bottom: 1%;*/
   text-decoration: none;
 }
 
-.primary-titles .smaller {
-    font-size: .6em;
-}
 
-.primary-titles .smallest {
-  font-size: .4em
- }
 
 .location {
   color: #58585B;
@@ -138,3 +132,14 @@ hr {
   border-style: none none dotted; 
   margin: 0 10% 0 0;
 }
+
+
+.smaller {
+    font-size: .7em;
+}
+
+.smallest {
+    font-size: .5em
+}
+
+
