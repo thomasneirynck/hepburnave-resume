@@ -1,0 +1,18 @@
+{
+  "name": "hepburnave",
+  "version": "0.0.0",
+  "description": "home page",
+  "devDependencies": {
+      "grunt": "^0.4.5",
+      "load-grunt-tasks": "^3.2.0",
+      "grunt-contrib-compress": "^0.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trgn/hepburnave.git"
+  },
+  "author": "Thomas Neirynck"
+}
