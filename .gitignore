@@ -1,4 +1,4 @@
 .idea
-hepburnave.iml
+*.iml
 release
-node_modules
+node_modulesg
